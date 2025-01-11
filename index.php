@@ -192,7 +192,7 @@
         <nav class="navbar navbar-expand-md cor_faixa-principal" data-bs-theme="dark">
             <div class="container-fluid">
                 <a class="navbar-brand ms-5" href="#">
-                    <img src="imagens/eureka_logo.png" alt="Eureka Logo" class="brand_place">
+                    <img src="imagens/bg_eureka.png" alt="Eureka Logo" class="brand_place">
                 </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarDropdown" aria-controls="navbarDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
